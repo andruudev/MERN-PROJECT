@@ -35,7 +35,7 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/coleccion-anime.git
+   git clone https://github.com/andruudev/MERN-PROJECT
    cd coleccion-anime
    ```
 
@@ -55,7 +55,7 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
    - Crear un archivo `.env` en la carpeta `server` con:
      ```
      PORT=5000
-     MONGODB_URI=tu_cadena_de_conexion_mongodb
+     MONGODB_URI= LA URI
      ```
 
 ## Ejecutar la Aplicación
@@ -73,22 +73,6 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
    npm start
    ```
    La aplicación se abrirá en: http://localhost:3000
-
-## Estructura del Proyecto
-
-```
-coleccion-anime/
-├── client/           # Aplicación React
-│   ├── public/
-│   └── src/
-│       ├── components/  # Componentes reutilizables
-│       ├── pages/       # Páginas de la aplicación
-│       └── App.js       # Componente principal
-└── server/          # Backend con Node.js/Express
-    ├── models/      # Modelos de la base de datos
-    ├── routes/      # Rutas de la API
-    └── server.js    # Configuración del servidor
-```
 
 ## Uso
 
