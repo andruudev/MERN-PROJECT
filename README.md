@@ -1,5 +1,7 @@
-# Colección de Personajes de Anime
+# 1. TITULO:  Colección de Personajes de Anime
+# Nombre: Jeyson Mueses (Modulo IV - DevOps)
 
+# 2. Descripcion
 Aplicación web completa para gestionar tus personajes de anime favoritos. Crea, lee, actualiza y elimina personajes con una interfaz fácil de usar.
 
 ## Características Principales
@@ -12,7 +14,7 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
 - Editar y eliminar personajes existentes
 - Diseño que se adapta a móviles y tablets
 
-## Tecnologías Usadas
+# 3. Tecnologías Usadas
 
 ### Frontend
 - React
@@ -24,7 +26,7 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
 - MongoDB (base de datos)
 - Mongoose (para interactuar con MongoDB)
 
-## Cómo Empezar
+# 4.  Cómo Empezar
 
 ### Requisitos Previos
 - Node.js (versión 14 o superior)
@@ -82,7 +84,7 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
 4. **Editar/Eliminar**: Usa los botones en la página de detalles del personaje.
 5. **Buscar**: Usa la barra de búsqueda para encontrar personajes.
 
-## Despliegue
+# 5. Despliegue
 
 ### Backend
 1. Crea una base de datos en MongoDB Atlas
@@ -96,6 +98,11 @@ Aplicación web completa para gestionar tus personajes de anime favoritos. Crea,
    npm run build
    ```
 2. Sirve la carpeta `build` con tu servicio de hosting favorito
+
+# 6.  Desafios
+
+### Mi primer error fue que no copie bien la URI de Mongo y no sabia como resolverlo, porque no compilaba y se caia todo, despues revise letra por letra la URI y vi que estaba mal y lo corregi
+### Mi segundo error fue que no se instalaban las dependencias de node, y no podia compilar la app, tuve que borrar node, borrar el cache y volver a levantarlo
 
 ## Licencia
 
