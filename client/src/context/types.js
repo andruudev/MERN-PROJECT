@@ -1,0 +1,16 @@
+// Alert Types
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
+// Character Types
+export const GET_CHARACTERS = 'GET_CHARACTERS';
+export const GET_CHARACTER = 'GET_CHARACTER';
+export const ADD_CHARACTER = 'ADD_CHARACTER';
+export const UPDATE_CHARACTER = 'UPDATE_CHARACTER';
+export const DELETE_CHARACTER = 'DELETE_CHARACTER';
+export const CHARACTER_ERROR = 'CHARACTER_ERROR';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const SET_CURRENT = 'SET_CURRENT';
+export const FILTER_CHARACTERS = 'FILTER_CHARACTERS';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
+export const CLEAR_CHARACTERS = 'CLEAR_CHARACTERS';

@@ -1,0 +1,11 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "Aplicación web completa para gestionar tus personajes de anime favoritos. Crea, lee, actualiza y elimina personajes con una interfaz fácil de usar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
